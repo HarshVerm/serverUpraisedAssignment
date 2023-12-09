@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "quizId": 1,
+      "text": "Which famous scientist developed the theory of relativity?",
+      "image": "https://dummyimage.com/600x400/fff/000",
+      "options": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Stephen Hawking"
+      ],
+      "correctOption": ["Albert Einstein"]
+    },
+    {
+      "quizId": 2,
+      "text": "Which ocean is the largest on Earth?",
+      "image": null,
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctOption": ["Pacific Ocean"]
+    },
+    {
+      "quizId": 3,
+      "text": "What is the largest mammal on Earth?",
+      "image": "https://dummyimage.com/600x400/fff/000",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+      "correctOption": ["Blue Whale"]
+    },
+    {
+      "quizId": 4,
+      "text": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "image": null,
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctOption": ["Carbon Dioxide"]
+    },
+    {
+      "quizId": 5,
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "image": "https://dummyimage.com/600x400/fff/000",
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Charles Dickens",
+        "Emily Brontë"
+      ],
+      "correctOption": ["Jane Austen", "William Shakespeare"]
+    },
+    {
+      "quizId": 6,
+      "text": "What is the currency of Japan?",
+      "image": null,
+      "options": ["Yuan", "Euro", "Yen", "Dollar"],
+      "correctOption": ["Yen"]
+    },
+    {
+      "quizId": 7,
+      "text": "In which year did the Titanic sink?",
+      "image": "https://dummyimage.com/600x400/fff/000",
+      "options": ["1910", "1925", "1912", "1930"],
+      "correctOption": ["1912"]
+    },
+    {
+      "quizId": 8,
+      "text": "Which continent is the Sahara Desert located in?",
+      "image": null,
+      "options": ["Asia", "Europe", "Africa", "South America"],
+      "correctOption": ["Africa"]
+    },
+    {
+      "quizId": 9,
+      "text": "Who was the first President of the United States?",
+      "image": "https://dummyimage.com/600x400/fff/000",
+      "options": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctOption": ["George Washington"]
+    },
+    {
+      "quizId": 10,
+      "text": "What is the boiling point of water in Celsius?",
+      "image": null,
+      "options": ["0", "100", "50", "200"],
+      "correctOption": ["100"]
+    }
+  ],
+  "userResponses": []
+}
